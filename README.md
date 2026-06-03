@@ -1,5 +1,5 @@
 
-<details>
+<details name="language" open>
 <summary><b>🇧🇩 বাংলা সংস্করণ</b></summary>
 
 ## পরিচিতি
@@ -12,6 +12,9 @@
 
 # ~~~~~~~~
 </details>
+
+<details name="language" open>
+<summary><b>English</b></summary>
 
 # Machine Learning from Scratch
 
@@ -32,3 +35,5 @@ This project focuses on understanding how Machine Learning algorithms work inter
 * Neural Networks
 * Transformers
 * Large Language Models
+  
+</details>
