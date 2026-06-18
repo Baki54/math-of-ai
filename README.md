@@ -1,5 +1,5 @@
 
-<details name="language" open>
+<details name="language">
 <summary><b>🇧🇩 বাংলা সংস্করণ</b></summary>
 
 ## পরিচিতি
